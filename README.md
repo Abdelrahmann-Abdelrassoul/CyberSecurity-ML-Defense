@@ -144,7 +144,7 @@ A large set of engineered features significantly improved model performance.
 
 ### Confusion Matrix & Model Performance
 
-![Confusion Matrix](Confusion Matrix.png)
+![Confusion Matrix]("Confusion Matrix.png")
 
 ![Performance Plot](download-1.png)
 
@@ -155,7 +155,6 @@ A large set of engineered features significantly improved model performance.
 ## 🧩 Ensembling (Stacking)
 
 * Models:
-
   * Neural Network
   * XGBoost
   * LightGBM
@@ -195,31 +194,6 @@ A large set of engineered features significantly improved model performance.
 * Ensure user privacy is maintained
 * Avoid false positives affecting normal users
 * Use responsibly in cybersecurity systems
-
----
-
-## 📂 Project Structure (Suggested)
-
-```
-├── data/
-├── notebooks/
-├── models/
-├── src/
-├── README.md
-└── requirements.txt
-```
-
----
-
-## 🚀 How to Run
-
-```bash
-# Install dependencies
-pip install -r requirements.txt
-
-# Run training script
-python train.py
-```
 
 ---
 
