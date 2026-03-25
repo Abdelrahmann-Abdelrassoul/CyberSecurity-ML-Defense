@@ -1,13 +1,5 @@
 # 🚀 Network Traffic Classification for Cybersecurity (ML Project - Phase 2)
 
-## 👥 Team Members
-- Ali Ashraf - 202301812  
-- Abdelrahman Abdelrassoul - 202300056  
-- Ahmed Mohamady - 202301826  
-- Youssef Islam Kamel - 202300886  
-
----
-
 ## 📌 Overview
 
 In today’s digital landscape, cyber attacks are increasing in complexity and frequency. Traditional security systems often fail to detect evolving attack patterns in time.
@@ -140,15 +132,15 @@ A large set of engineered features significantly improved model performance.
 
 ---
 
-## 📊 Visual Results
+## 📊 Visuals
 
 ### Confusion Matrix & Model Performance
 
-![Confusion Matrix]("Confusion Matrix.png")
+![Confusion Matrix](ConfusionMatrix.png)
 
-![Performance Plot](download-1.png)
+![ROC Curve](ROC.png)
 
-![Feature Impact](download-2.png)
+![Precision Recall Curve](Precision-recall.png)
 
 ---
 
