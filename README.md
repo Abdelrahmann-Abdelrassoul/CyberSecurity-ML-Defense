@@ -1,8 +1,3 @@
-Here’s a clean, professional **README.md** you can directly copy-paste into your repo 👇
-
----
-
-
 # 🚀 Network Traffic Classification for Cybersecurity (ML Project - Phase 2)
 
 ## 👥 Team Members
@@ -149,7 +144,7 @@ A large set of engineered features significantly improved model performance.
 
 ### Confusion Matrix & Model Performance
 
-![Confusion Matrix](download.png)
+![Confusion Matrix](Confusion Matrix.png)
 
 ![Performance Plot](download-1.png)
 
