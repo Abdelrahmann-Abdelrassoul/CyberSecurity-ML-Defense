@@ -1,5 +1,5 @@
 # 🚀 Network Traffic Classification for Cybersecurity (ML Project - Phase 2)
-Download full notebook: [https://colab.research.google.com/drive/1H6D1eGZDDv-Lfj5Jt1-Fq_O0c4K3XO0G?usp=sharing]
+Download full notebook: [Click here](https://colab.research.google.com/drive/1H6D1eGZDDv-Lfj5Jt1-Fq_O0c4K3XO0G?usp=sharing)
 
 ## 📌 Overview
 
