@@ -2,7 +2,7 @@ Here’s a clean, professional **README.md** you can directly copy-paste into yo
 
 ---
 
-````markdown
+
 # 🚀 Network Traffic Classification for Cybersecurity (ML Project - Phase 2)
 
 ## 👥 Team Members
